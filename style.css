@@ -4,6 +4,7 @@
   
   * {
     box-sizing: border-box;
+    font-family: 'Bellota', cursive;
   }
   
   body {
@@ -16,6 +17,9 @@
     height: 100vh;
     margin: 0;
     padding: 20px;
+   
+    background-color: #ffffff;
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
   }
   
   h1 {
